@@ -1,0 +1,10 @@
+chromadb>=1,<2
+langchain>=1,<2
+langchain-chroma>=1,<2
+langchain-core>=1,<2
+langchain-openai>=1,<2
+langchain-text-splitters>=1,<2
+openai>=2.45,<4
+pydantic>=2,<3
+python-dotenv>=1,<2
+tiktoken>=0.9,<1
